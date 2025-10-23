@@ -23,7 +23,7 @@
   - Vectorizing Text
     - Numerical Representation of Text
     - Bag of words model
-    - TF & IDF
+    - TF-IDF (Term Frequency - Inverse Document Frequency)
 
 ## Requirements
 
