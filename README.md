@@ -1,4 +1,4 @@
-# NLP
+# NLP (Natural Language Processing)
 
 - What is Natural Language Processing (NLP)?
 - Supervised vs Unsupervised Learning in NLP
@@ -35,11 +35,20 @@
         - U - Document Topic Matrix
         - S - How much each Latent Topic explains variance in Data
         - Vt - Terms Document Matrix
+  - Text Classifier
+    - Logistic Regression
+    - Naive Bayes
+    - Linear Support Vector Machines (SVM)
 
-## Scores
+## Others
 
-- Polarity Scores
-- Similarity Scores
+- Scores
+  - Polarity Scores
+  - Similarity Scores
+  - Coherence Scores
+- Sets
+  - Training Set
+  - Testing Set
 
 ## Requirements
 
