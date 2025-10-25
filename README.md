@@ -24,6 +24,22 @@
     - Numerical Representation of Text
     - Bag of words model
     - TF-IDF (Term Frequency - Inverse Document Frequency)
+  - Topic Modeling
+    - Latent Dirichlet Allocation (LDA)
+      - Latent Topics
+      - Dirichlet Distribution
+    - Latent Semantic Analysis (LSA)
+      - Distribution Hypothesis
+      - Singular Value Decomposition (SVD)
+        - M - Document Term Matrix
+        - U - Document Topic Matrix
+        - S - How much each Latent Topic explains variance in Data
+        - Vt - Terms Document Matrix
+
+## Scores
+
+- Polarity Scores
+- Similarity Scores
 
 ## Requirements
 
