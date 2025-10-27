@@ -2,12 +2,9 @@
 
 - What is Natural Language Processing (NLP)?
 - Supervised vs Unsupervised Learning in NLP
-- Data Preprocessing
-  - General Cleaning
-  - Removing Noise from the DataSet
-  - Getting the data in the right format for the ML Algorithm
+- Data Preprocessing (General Cleaning, Removing Noise from the DataSet, Getting the data in the right format for the ML Algorithm)
+  - Tokenization (Sentence Tokenization, Word Tokenization)
   - Stop Words Removal
-  - Tokenization
   - Stemming and Lemmatization
   - N-grams (Unigrams, Bigrams, Trigrams, N-grams)
   - Parts Of Speech & Named Entity Recognition Tagging
@@ -42,6 +39,11 @@
 
 ## Others
 
+- Corpus - Paragraph
+- Documents - Sentences
+- Vocabulary - Unique Words
+- Words
+- Word Stem
 - Scores
   - Polarity Scores
   - Similarity Scores
