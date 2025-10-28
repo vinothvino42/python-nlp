@@ -6,8 +6,16 @@
   - Tokenization (Sentence Tokenization, Word Tokenization)
   - Stop Words Removal
   - Stemming and Lemmatization
+  - Parts Of Speech
+  - Named Entity Recognition Tagging
+  - Vectorizing Text
+    - Numerical Representation of Text
+    - One Hot Encoding
+    - Bag of words model
+    - TF-IDF (Term Frequency - Inverse Document Frequency)
+    - Word2Vec
+    - Avg Word2Vec
   - N-grams (Unigrams, Bigrams, Trigrams, N-grams)
-  - Parts Of Speech & Named Entity Recognition Tagging
   - Sentiment Analysis
     - Positive Sentiment
     - Negative Sentiment
@@ -17,10 +25,6 @@
       - Ex: Word (great - +0.8 score, sad - -0.7 score)
       - TextBlob, VADER
     - Pre-trained Transformer
-  - Vectorizing Text
-    - Numerical Representation of Text
-    - Bag of words model
-    - TF-IDF (Term Frequency - Inverse Document Frequency)
   - Topic Modeling
     - Latent Dirichlet Allocation (LDA)
       - Latent Topics
